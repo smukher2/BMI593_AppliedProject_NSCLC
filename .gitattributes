@@ -1,0 +1,7 @@
+#To set language on github repository
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+*.html linguist-language=Python
+*.py eol=Python
+*.ipynb eol=Python
+*.html eol=Python
